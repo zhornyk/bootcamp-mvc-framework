@@ -1,0 +1,14 @@
+{
+  "name": "bootcamp-mvc-framework",
+  "version": "1.0.0",
+  "description": "This lightweight MVC framework used only for learning purposes. ",
+  "main": "./src/mvc.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zhornyk",
+  "license": "ISC"
+}
